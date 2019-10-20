@@ -1,0 +1,74 @@
+body{
+    background-image: url("wargaming_wallpaper.jpg")
+}
+#list{
+    background-color: rgba(0,0,0,0.9);
+    border-radius: 30px;
+    width: 700px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 15%;
+    position: relative;
+}
+
+#Nazev{
+    margin-top: 35px;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 15px;
+    position: absolute;
+    color: white;
+    width: 100%;
+    height: auto;
+
+}
+
+#Autor{
+    margin-top: 70px;
+}
+
+#Zajímavosti{
+    margin-top: 95px;
+    width: 50%;
+}
+
+#Vlastnosti{
+    margin-top: 95px;
+    margin-left: 50%;
+    width: 50%;
+}
+#OdDo{
+    margin-top: 230px;
+}
+#Napsaný_v{
+    margin-top: 250px;
+}
+#Scriptuje_se_v{
+    margin-top: 270px;
+}
+#Platforma{
+    margin-top: 290px;
+}
+#Licence{
+    margin-top: 310px;
+}
+#Top_hry{
+    margin-top: 330px;
+}
+
+ul{
+    margin-top: 2px;
+}
+li{
+    margin-left: 15px;
+}
+
+.text{
+margin-left: 15px;
+    position: absolute;
+    color: white;
+    width: 100%;
+    height: auto;
+
+}
+
