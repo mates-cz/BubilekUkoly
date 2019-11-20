@@ -1,0 +1,36 @@
+body{
+    background-color: lightblue;
+    
+}
+div{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    text-align: justify;
+    
+}
+p{
+    margin-top: 50px;
+    text-align: center;
+    font-weight: 900;
+    font-size: 50px;
+}
+a{
+
+    margin-left:700px;
+    text-decoration: none;
+    color: black; 
+    margin-top: 50px;
+    font-weight: bold;
+    border-style: solid;
+    border-width: 1px;
+    border-bottom-color: black;
+    border-radius: 15px; 
+}
+a:hover{
+    background-color: black;
+    color: white;
+}
+
+
